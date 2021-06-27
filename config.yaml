@@ -1,0 +1,7 @@
+bot:
+  account:
+  password:
+event:
+  url:
+  addFriend: auto
+  groupInvited: auto
